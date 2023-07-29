@@ -9,10 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 698f8ba44ae36401c8430b38cf5ed5ec
   - enabled: 1
-    path: Assets/Scenes/Phalivan-Scene1.unity
+    path: Assets/Scenes/Missioins1-5/Missionn1-Intro.unity
+    guid: 3ba3f4d27ad1a495d9290ef2299ca35a
+  - enabled: 1
+    path: Assets/Scenes/Missioins1-5/Mission1-Phalivan.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/MissionVictory.unity
+    path: Assets/Scenes/Missioins1-5/Mission1-Victory.unity
     guid: 9019b88eca2164bbead62a860b48199f
   - enabled: 1
     path: Assets/Scenes/GameVictory.unity

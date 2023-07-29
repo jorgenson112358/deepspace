@@ -12,6 +12,6 @@ public class MainController : MonoBehaviour
     }
 
     public void MissionVictory() {
-        SceneManager.LoadScene("MissionVictory");
+        SceneManager.LoadScene("Mission1-Victory");
     }
 }
